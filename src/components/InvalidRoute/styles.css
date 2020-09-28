@@ -1,0 +1,17 @@
+.invalid-routes{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
+.invalid-routes > div{
+    text-align:center;
+}
+
+.invalid-routes > div:first-child{
+    font-size: 16px;
+}
+
+.invalid-routes > div:last-child{
+    font-size: 12px;
+}

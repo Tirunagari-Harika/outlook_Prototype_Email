@@ -1,0 +1,44 @@
+.linkStyles a{
+    text-decoration: none;
+    display: block;
+}
+
+.linkStyles .activeClass{
+    background-color: #c7e0f4;  
+}
+
+.linkStyles .activeClass .folderItem>div:first-child{
+    color: #257fbf;
+}
+
+.linkStyles:hover{
+    background-color: #eaedef;
+}
+
+.linkStyles a:active{
+    color: #257fbf;
+}
+
+
+.linkStyles a:focus{
+    outline:none;
+}
+
+.linkStyles .folderItem{
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    
+    padding: 10px;
+}
+
+.linkStyles .folderItem > div:first-child{
+    width: 75%;
+}
+
+.linkStyles .folderItem > div:last-child{
+    text-align: right;
+    width: 25%;
+    color: #257fbf;
+    padding-right: 10px;
+}

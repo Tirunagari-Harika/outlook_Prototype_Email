@@ -1,0 +1,72 @@
+[
+    {
+        "mId": "guid-1",
+        "unread": true,
+        "flagged": false,
+        "subject": "Training Program 1",
+        "content": "1 About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+    },
+    {
+        "mId": "guid-2",
+        "unread": false,
+        "flagged": false,
+        "subject": "Empower your future 2",
+        "content": "2 We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+    },
+    {
+        "mId": "",
+        "unread": true,
+        "flagged": false,
+        "subject": "Training Program 3",
+        "content": "3 About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+    },
+    {
+        "mId": "guid-4",
+        "unread": false,
+        "flagged": false,
+        "subject": "Empower your future 4",
+        "content": "4 We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+    },
+    {
+        "mId": "guid-5",
+        "unread": true,
+        "flagged": false,
+        "subject": "Training Program 5",
+        "content": "5 About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+    },
+    {
+        "mId": "guid-6",
+        "unread": false,
+        "flagged": false,
+        "subject": "Empower your future 6",
+        "content": "6 We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+    },
+    {
+        "mId": "guid-7",
+        "unread": true,
+        "flagged": true,
+        "subject": "Training Program 7",
+        "content": "7 About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+    },
+    {
+        "mId": "guid-8",
+        "unread": false,
+        "flagged": true,
+        "subject": "Empower your future 8",
+        "content": "8 We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+    },
+    {
+        "mId": "guid-9",
+        "unread": true,
+        "flagged": false,
+        "subject": "Training Program 9",
+        "content": "9 About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+    },
+    {
+        "mId": "guid-10",
+        "unread": false,
+        "flagged": true,
+        "subject": "Empower your future 10",
+        "content": "10 We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+    }
+]

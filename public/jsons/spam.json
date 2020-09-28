@@ -1,0 +1,72 @@
+[
+    {
+        "mId": "guid-11",
+        "unread": true,
+        "flagged": false,
+        "subject": "Pre Approved Loan 11",
+        "content": "11 Congratulations ! <u>Credit card<u> is being shipped to you today!"
+    },
+    {
+        "mId": "guid-12",
+        "unread": true,
+        "flagged": false,
+        "subject": "You won a lottery! 12",
+        "content": "12 You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+    },
+    {
+        "mId": "guid-13",
+        "unread": true,
+        "flagged": false,
+        "subject": "Pre Approved Loan 13",
+        "content": "13 Congratulations ! <u>Credit card<u> is being shipped to you today!"
+    },
+    {
+        "mId": "guid-14",
+        "unread": true,
+        "flagged": false,
+        "subject": "You won a lottery! 14",
+        "content": "14 You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+    },
+    {
+        "mId": "guid-15",
+        "unread": true,
+        "flagged": false,
+        "subject": "Pre Approved Loan 15",
+        "content": "15 Congratulations ! <u>Credit card<u> is being shipped to you today!"
+    },
+    {
+        "mId": "guid-16",
+        "unread": true,
+        "flagged": false,
+        "subject": "You won a lottery! 16",
+        "content": "16 You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+    },
+    {
+        "mId": "guid-17",
+        "unread": true,
+        "flagged": false,
+        "subject": "Pre Approved Loan 17",
+        "content": "17 Congratulations ! <u>Credit card<u> is being shipped to you today!"
+    },
+    {
+        "mId": "guid-18",
+        "unread": true,
+        "flagged": false,
+        "subject": "You won a lottery! 18",
+        "content": "18 You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+    },
+    {
+        "mId": "guid-19",
+        "unread": true,
+        "flagged": false,
+        "subject": "Pre Approved Loan 19",
+        "content": "19 Congratulations ! <u>Credit card<u> is being shipped to you today!"
+    },
+    {
+        "mId": "guid-20",
+        "unread": true,
+        "flagged": false,
+        "subject": "You won a lottery! 20",
+        "content": "20 You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+    }
+]

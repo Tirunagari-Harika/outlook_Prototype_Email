@@ -1,0 +1,26 @@
+[
+    {
+        "folderId": "fid-1",
+        "folderApiUrl": "jsons/inbox.json",
+        "displayName": "Inbox",
+        "routeKey": "inbox"
+    },
+    {
+        "folderId": "fid-2",
+        "folderApiUrl": "jsons/spam.json",
+        "displayName": "Spam",
+        "routeKey": "spam"
+    },
+    {
+        "folderId": "fid-3",
+        "folderApiUrl": "jsons/deleted.json",
+        "displayName": "Deleted",
+        "routeKey": "deleted"
+    },
+    {
+        "folderId": "fid-4",
+        "folderApiUrl": "jsons/tirunagari.json",
+        "displayName": "tirunagari",
+        "routeKey": "tirunagari"
+    }
+]
